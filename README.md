@@ -27,8 +27,7 @@ This is a simple React application that displays a clock and a timer. The clock 
 
 2. Navigate to the project folder:
 
-`cd your-repo-name`
-
+`cd Timer`
 
 3. Install dependencies:
 
@@ -37,7 +36,6 @@ This is a simple React application that displays a clock and a timer. The clock 
 4. Start the development server:
 
 `npm run dev`
-
 
 5. Open your browser and navigate to:
 
@@ -57,7 +55,6 @@ This is a simple React application that displays a clock and a timer. The clock 
 - By default, the clock shows the current time in 24-hour format.
 - Use the "12H" button to switch to 12-hour format.
 - Use the "24H" button to switch back to 24-hour format.
-
 2. **Timer**:
 - Enter the desired number of minutes in the input field.
 - Click "Start" to begin the countdown.
@@ -67,6 +64,7 @@ This is a simple React application that displays a clock and a timer. The clock 
 ## Customization
 
 You can customize this app by:
+
 - Changing the styles in the inline `style` objects.
 - Replacing `public/timer-sound.mp3` with your own sound file.
 
@@ -81,4 +79,3 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 ---
 
 Happy coding! 🚀
-
